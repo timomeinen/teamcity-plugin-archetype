@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/agent/agent.iml" filepath="$PROJECT_DIR$/agent/agent.iml" />
       <module fileurl="file://$PROJECT_DIR$/distribution/distribution.iml" filepath="$PROJECT_DIR$/distribution/distribution.iml" />
       <module fileurl="file://$PROJECT_DIR$/server/server.iml" filepath="$PROJECT_DIR$/server/server.iml" />
-      <module fileurl="file://$PROJECT_DIR$/teamcity-plugin.iml" filepath="$PROJECT_DIR$/teamcity-plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/teamcity-plugin-parent.iml" filepath="$PROJECT_DIR$/teamcity-plugin-parent.iml" />
     </modules>
   </component>
 </project>

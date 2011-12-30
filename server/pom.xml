@@ -6,14 +6,13 @@
 
   <parent>
     <groupId>de.timomeinen</groupId>
-    <artifactId>teamcity-plugin</artifactId>
+    <artifactId>teamcity-plugin-parent</artifactId>
     <version>1.0-SNAPSHOT</version>
   </parent>
 
   <groupId>de.timomeinen</groupId>
   <artifactId>server</artifactId>
   <version>1.0-SNAPSHOT</version>
-
 
   <dependencies>
     <!-- TeamCity Libraries -->
